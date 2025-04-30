@@ -1,4 +1,3 @@
-<button onclick="toggleLanguage()">Switch Language / 切换语言</button>
 
 <div id="english">
 
