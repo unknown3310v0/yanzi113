@@ -1,4 +1,4 @@
-<div id="english">
+[🌐 English](README.md) | [🇨🇳 中文](README.zh-CN.md)
 
 ## Come here, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
@@ -20,5 +20,3 @@ Hello! 👏 My name is Yanzi, and I'm from China 🇨🇳. Currently, I am an un
 Thank you very much for visiting🎉🎉
 
 ![](https://raw.githubusercontent.com/yanzi113/yanzi113/output/github-contribution-grid-snake-dark.svg)
-
-</div>
