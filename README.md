@@ -1,4 +1,4 @@
-[🌐 English](README.md) | [中文](README.zh-CN.md)
+🌐 [English](README.md) | [中文](README.zh-CN.md)
 
 ## Come here, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
